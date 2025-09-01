@@ -1,0 +1,1 @@
+## Este es una ruta de aprendizaje de Juan Valencia y SantiRF en colaborativo para aprender fundamentos, logica y frameworks para devs fullstack
