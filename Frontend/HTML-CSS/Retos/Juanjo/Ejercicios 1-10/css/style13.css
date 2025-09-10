@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+}
+
+button {
+    margin-bottom: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.type1 {
+    background-color: blue;
+    color: white;
+    border: none;
+}
+
+.type2 {
+    background-color: gray;
+    color: white;
+    border: none;
+}
+
+.type3 {
+    background-color: red;
+    color: white;
+    border: none;
+}
+
+.type4 {
+    background-color: green;
+    color: white;
+    border: none;
+}
+
+.type5 {
+    background-color: purple;
+    color: white;
+    border: none;
+}
+
+.type1:hover {
+    background-color: darkblue;
+}
+
+.type2:hover {
+    background-color: darkgray;
+}
+
+.type3:hover {
+    background-color: darkred;
+}
+
+.type4:hover {
+    background-color: darkgreen;
+}
+
+.type5:hover {
+    background-color: black;
+}
