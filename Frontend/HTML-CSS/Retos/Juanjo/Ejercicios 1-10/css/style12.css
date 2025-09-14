@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-family: Arial, sans-serif;
+}
+
+h3 {
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 13, 255);
+}
+
+.container {
+    margin: auto;
+    background-size: cover;
+    height: 400px;
+    width: 600px;
+    border: 4px solid rgba(0, 102, 37, 0.3);
+    border-radius: 8px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 2px 8px rgb(0, 0, 0);
+    padding: 6px;
+}
+
+.box-text {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding-left: 8px;
+}
+
+.box-image {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.box-image img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
